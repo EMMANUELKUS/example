@@ -16,8 +16,11 @@ root(Life)
 Football :football: 
 
   Bird :bird:
-
 ```mermaid
 pie
+"sliceA" :10
+"sliceB" :20
+"sliceC" :30
+"slice"  :40
 
 ```
