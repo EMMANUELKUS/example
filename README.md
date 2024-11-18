@@ -24,3 +24,6 @@ pie
 "slice"  :40
 
 ```
+![emmanuel playing football](https://github.com/EMMANUELKUS/My-Dream/blob/main/football.jpeg?raw=true)
+
+
