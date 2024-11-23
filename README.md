@@ -16,6 +16,10 @@ root(Life)
 Football :football: 
 
   Bird :bird:
+
+  Elephant :elephant:
+
+  computer :computer:
 ```mermaid
 pie
 "sliceA" :10
@@ -27,5 +31,6 @@ pie
 ![emmanuel playing football](https://github.com/EMMANUELKUS/My-Dream/blob/main/football.jpeg?raw=true)
 
 ## <ins>beautiful<ins>
+
 
 
